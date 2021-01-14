@@ -1,0 +1,105 @@
+{
+    "basics": {
+        "name": "Jonathan Fox",
+        "label": "Game Developer",
+        "email": "foxjonathanp@gmail.com",
+        "phone": "(415)963-2378",
+        "location": "San Francisco",
+        "profiles": [
+            {
+                "network": "LinkedIn",
+                "url": "https://www.linkedin.com/in/jonathan-fox-cs/"
+            },
+            {
+                "network": "GitHub",
+                "url": "https://github.com/FishWash"
+            }
+        ],
+        "description": "An innovative game developer with experience building 2D and 3D games on multiple platforms. Proficient in C# and JavaScript. Comfortable with modern engines like Unity and Godot. Passionate about making games that players love."
+    },
+    "skills": [
+        {
+            "title": "Game Development",
+            "items": [
+                "C#",
+                "JavaScript",
+                "Unity",
+                "Phaser 3",
+                "GameMaker Studio 2",
+                "Godot"
+            ]
+        },
+        {
+            "title": "Networking",
+            "items": [
+                "Photon Unity Network",
+                "Express.js"
+            ]
+        },
+        {
+            "title": "Professional",
+            "items": [
+                "GitHub",
+                "Slack",
+                "Asana"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "institution": "San Francisco State University",
+            "degree": "B.S. in Computer Science",
+            "startDate": "2015",
+            "endDate": "2019"
+        }
+    ],
+    "work": [
+        {
+            "company": "Outspoke.io",
+            "position": "Web Dev Intern",
+            "website": "https://be.outspoke.io",
+            "startDate": "Jan 2020",
+            "endDate": "Present",
+            "summary": "Outspoke.io is a supply management platform that helps\nbusiness owners manage their businesses efficiently.",
+            "highlights": [
+                "Maintained website by developing new components using JavaScript, React, Material-UI, and Feathers.js.",
+                "Collaborated with members from other teams, including\nUX designers, management, and back end engineers."
+            ]
+        }
+    ],
+    "projects": [
+        {
+            "name": "HSLookup.net",
+            "role": "React, Node, Express",
+            "startDate": "Jan 2019",
+            "endDate": "Mar 2020",
+            "summary": "A Web Application to improve Hearthstone players'\nunderstanding of the game by showing valuable statistics.",
+            "highlights": [
+                "Used React to create a web app that gives users access to filter options and displays card data.",
+                "Created a server on Heroku that enables the client to use up-to-date card data from the official Blizzard API."
+            ]
+        },
+        {
+            "name": "Fidgeter Widget",
+            "role": "C#, Unity",
+            "startDate": "Oct 2019",
+            "endDate": "Dec 2020",
+            "summary": "A mobile game that mimics a fidget toy on your phone with sounds and haptic feedback.",
+            "highlights": [
+                "Programmed core game elements, including touch logic, UI, and handling local user data.",
+                "Used HTTP requests to implement user login and a global high score system on an AWS AppSync server."
+            ]
+        },
+        {
+            "name": "Stick Fighter",
+            "role": "JavaScript, Express, Socket.io",
+            "startDate": "Jan 2020",
+            "endDate": "Feb 2020",
+            "summary": "A 2D online multiplayer fighting game that can be played in your browser.",
+            "highlights": [
+                "Implemented multiplayer with an authoritative server and clients using Socket.IO.",
+                "Built the game engine from scratch, including hitbox detection and character animations."
+            ]
+        }
+    ]
+}

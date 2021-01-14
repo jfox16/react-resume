@@ -1,0 +1,99 @@
+{
+    "basics": {
+        "name": "Jonathan Fox",
+        "label": "Programmer",
+        "email": "foxjonathanp@gmail.com",
+        "phone": "(415)963-2378",
+        "location": "San Francisco",
+        "profiles": [
+            {
+                "network": "LinkedIn",
+                "url": "https://www.linkedin.com/in/jonathan-fox-cs/"
+            },
+            {
+                "network": "GitHub",
+                "url": "https://github.com/FishWash"
+            }
+        ],
+        "description": "An innovative Front End developer with experience building and maintaining professional websites. Proficient in JavaScript, React, and CSS. Comfortable with modern libraries and frameworks. Passionate about bringing value to users through\npractical, accessible web apps."
+    },
+    "skills": [
+        {
+            "title": "Front End",
+            "items": [
+                "React 16.8",
+                "JavaScript ES6",
+                "CSS3",
+                "HTML",
+                "Material-UI",
+                "Feathers.js"
+            ]
+        },
+        {
+            "title": "Back End",
+            "items": [
+                "Node.js",
+                "Express.js",
+                "MongoDB Atlas"
+            ]
+        },
+        {
+            "title": "Professional",
+            "items": [
+                "GitHub",
+                "Slack",
+                "Asana"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "institution": "San Francisco State University",
+            "degree": "B.S. in Computer Science",
+            "startDate": "2015",
+            "endDate": "2019"
+        }
+    ],
+    "work": [
+        {
+            "company": "Outspoke.io",
+            "position": "Front End Intern",
+            "website": "https://be.outspoke.io",
+            "startDate": "Jan 2020",
+            "endDate": "Present",
+            "summary": "Outspoke.io is a supply management platform that helps\nbusiness owners manage their businesses efficiently by\nproviding data visibility and management tools.",
+            "highlights": [
+                "Maintained website by developing new components using JavaScript, React, Material-UI, and Feathers.js",
+                "Collaborated with members from other teams, including\nUX designers, management, and back end engineers",
+                "Researched new technologies to identify ways to increase\nefficiency and add functionality to the platform"
+            ]
+        },
+        {
+            "company": "Olixus Inc.",
+            "position": "Software Engineer Intern",
+            "website": "https://www.olixus.com/",
+            "startDate": "May 2017",
+            "endDate": "August 2017",
+            "summary": "JITS is an app that provides services to small businesses by connecting them with freelance workers.",
+            "highlights": [
+                "Led production of the Android JITS app with Android Studio",
+                "Collaborated with back end engineers to access server API",
+                "Implemented login authentication with Django"
+            ]
+        }
+    ],
+    "projects": [
+        {
+            "name": "HSLookup.net",
+            "role": "React, Node, Express",
+            "startDate": "January 2019",
+            "endDate": "March 2020",
+            "summary": "HSLookup.net improves Hearthstone players' understanding of the game by giving them valuable statistics and probability data.",
+            "highlights": [
+                "Used React to create a web app that lets users view Hearthstone cards, filter them, and view aggregate statistics.",
+                "Created a server on Heroku that fetches card data from the official Blizzard API and stores it in a Postgres relational database to be served to the front end app.",
+                "Styled the site to be responsive so it works well on desktop and mobile."
+            ]
+        }
+    ]
+}
